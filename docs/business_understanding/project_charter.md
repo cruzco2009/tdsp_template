@@ -56,8 +56,7 @@ Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse d
 Líder del Proyecto: Luis Armando Cruz Contreras, Data Scientist Senior
 
 Miembros del Equipo:
-Diego Alejandro Ferro Martínez, Especialista en Machine Learning
-Sergio Alejandro Barragan, Analista de Datos
+Luis Armando Cruz Contreras, Data Scientist Senior
 
 ## Presupuesto
 
@@ -68,7 +67,6 @@ El presupuesto asignado para la ejecución de este proyecto proviene de recursos
 * Nombre y cargo:
 
     * Gerente de Innovación, Luis Armando Cruz Contreras.
-    * Gerente de Operaciones, Diego Alejandro Ferro Martínez.
 
 * Relación con los stakeholders:
 
