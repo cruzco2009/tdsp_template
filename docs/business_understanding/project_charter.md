@@ -49,8 +49,6 @@ Análisis de las características más importantes en la clasificación.
 | Despliegue | 1 semana | del 16 de diciembre al 20 de diciembre |
 | Evaluación y entrega final | 1 semanas | del 23 de diciembre al 27 de diciembre |
 
-Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse de acuerdo al proyecto.
-
 ## Equipo del Proyecto
 
 Líder del Proyecto: Luis Armando Cruz Contreras, Data Scientist Senior
